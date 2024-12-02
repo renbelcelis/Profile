@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Profile</string>
+
+    <string name="hint_name">Nombre</string>
+    <string name="hint_email">Correo Electronico</string>
+    <string name="hint_website">Web Site</string>
+    <string name="hint_phone">Celular</string>
+    <string name="hint_location">Ubicacion</string>
+    <string name="hint_Enablelocation">Habilitar Ubicacion</string>
+    <string name="hint_latitud">Latitud</string>
+    <string name="hint_Longitud">Longitud</string>
+
+    <string name="enable_map">Habilitar Ubicacion</string>
+
+    <string name="edit_title">Editar datos de Usuario</string>
+
+
+    <string name="key_name">k_name</string>
+    <string name="key_email">k_email</string>
+    <string name="key_website">k_website</string>
+    <string name="key_phone">k_phone</string>
+    <string name="key_lat">k_lat</string>
+    <string name="key_long">k_long</string>
+    <string name="main_show_map">Ver mapa</string>
+</resources>
