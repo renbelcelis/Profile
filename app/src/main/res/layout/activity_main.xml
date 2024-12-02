@@ -24,6 +24,7 @@
             app:cardElevation="@dimen/common_padding_min"
             android:layout_margin="@dimen/common_padding_default">
             <ImageView
+                android:id="@+id/imgProfileac"
                 android:layout_width="@dimen/profile_image_size_large"
                 android:layout_height="@dimen/profile_image_size_large"
                 android:src="@drawable/cursos_android_ant"
@@ -55,6 +56,9 @@
             android:textSize="@dimen/profile_text_size_middle"
             android:textColor="@color/black"
             android:textStyle="italic"
+            android:autoLink="email"
+            android:textColorLink="@color/black"
+            android:linksClickable="false"
             tools:text="cursoemail@gmail.com"/>
 
         <TextView
@@ -67,6 +71,9 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textColor="@color/black"
+            android:autoLink="web"
+            android:textColorLink="@color/blue"
+            android:clickable="false"
             tools:text="www.sdsds.com"/>
 
         <TextView

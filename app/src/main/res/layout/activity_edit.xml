@@ -26,6 +26,7 @@
                 app:cardCornerRadius="@dimen/profile_corner_radius_large"
                 app:cardElevation="@dimen/common_padding_none">
                 <ImageView
+                    android:id="@+id/imgProfile"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
                     android:src="@mipmap/ic_launcher"

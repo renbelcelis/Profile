@@ -22,4 +22,7 @@
     <string name="key_lat">k_lat</string>
     <string name="key_long">k_long</string>
     <string name="main_show_map">Ver mapa</string>
+    <string name="profile_error_no_resolve">No se encontro una app compatible</string>
+    <string name="key_image">k_image</string>
+    <string name="Settings">Configuracion</string>
 </resources>
